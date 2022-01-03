@@ -283,4 +283,8 @@ footer p {
     .attribution{
         margin-left: 55px;
     }
+
+    .header-left{
+        text-align: center;
+    }
 }
